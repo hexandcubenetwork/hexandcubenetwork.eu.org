@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/hexandcubenet",
+      "icon": "fab fa-twitter"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/hexandcubenetwork",
+      "icon": "fab fa-github"
+    }
+  ]
+}
